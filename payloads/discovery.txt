@@ -1,0 +1,7 @@
+/robots.txt
+/.git/
+/.env
+/config.php
+/admin/
+/backup/
+/backup.zip
