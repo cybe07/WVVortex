@@ -8,6 +8,10 @@
 
 </p>
 
+# 🌀 WVVortex
+
+Automated Web Vulnerability Scanner  
+Created by **cybe07**
 
 # 🌀 WVVortex
 ### Automated Web Vulnerability Scanner
