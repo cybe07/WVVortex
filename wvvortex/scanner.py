@@ -389,4 +389,9 @@ Capabilities:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n\n[!] Scan interrupted by user")
+        print("[+] Cleaning up threads...")
+        print("[+] Goodbye from WVVortex 🌀")
